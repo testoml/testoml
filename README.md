@@ -69,4 +69,14 @@ The project shows the way to connect to Google sheet and manipulate information 
 
 ## 👩‍💻 Selenium + C# 
 
+### Fundamentals selenium with Nunit and C#
+[GitHub](https://github.com/testoml/FundamentalsSeleniumNUnit)
+
+### Contact List 
+[GitHub](https://github.com/testoml/ContactList_SeleniumNunit)
+
+## 🛠 Resources useful for automation
+- [Inputs](https://www.selenium.dev/selenium/web/inputs.html)
+- [Examples of elements and navigation](https://the-internet.herokuapp.com/)
+
 
