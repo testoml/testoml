@@ -11,3 +11,62 @@ I am keen on expanding my expertise and refining my skills, particularly in Java
   
 # 📫 Reach me
 [Linkedin](https://www.linkedin.com/in/ornella-luna-qa-engineer-automation/)
+[Personal Page](https://testoml.github.io/)
+
+# Projects
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/testoml/testoml.github.io/blob/main/resources/c%23Icon.svg" height="40" alt="c# logo"  />
+  <img width="12" />
+  <img src="https://github.com/testoml/testoml.github.io/blob/main/resources/cypress-svgrepo-com.svg" height="40" alt="cypress logo"  />
+  <img width="12" />
+  <img src="https://github.com/testoml/testoml.github.io/blob/main/resources/icons8-postman-api.svg" height="40" alt="postmnan logo"  />
+  <img width="12" />
+  <img src="https://github.com/testoml/testoml.github.io/blob/main/resources/icons8-selenium-webdriver.svg" height="40" alt="Selenium WebDriver logo"  />
+</div>
+ 
+## 📚 Login Implementation with Cypress
+[GitHub](https://github.com/testoml/LoginCypress)
+
+Automating login functionality is crucial for streamlining testing processes, improving test coverage, ensuring accuracy and reliability, enabling faster feedback loops, optimizing resource utilization, facilitating scalability, and supporting parallel testing efforts. By automating login tests, organizations can enhance the quality, efficiency, and agility of their software development lifecycle.
+
+`Status: Completed`
+
+## 📚 Cypress Actions
+[GiHub](https://github.com/testoml/cypressActions)
+
+Implementing GitHub Actions in a Cypress.io project empowers development teams to automate testing processes, improve code quality, and accelerate the delivery of high-quality software.
+
+
+`Status: Completed`
+
+## 📚 Multiple reporters HTML Cypress
+[GitHub](https://github.com/testoml/multipleReportersHTMLCypress)
+
+Mochawesome Reporter: This is a third-party reporter that generates HTML reports with rich formatting. It provides detailed test results including test names, durations, commands, and screenshots. It's popular for its visually appealing and informative reports.
+
+`Status: Completed`
+
+## 📚 Postman Open Weather
+
+[GitHub](https://github.com/testoml/PostmanOpenWeather)
+
+`Status: Completed`
+
+## 📚 Mongo DB and Postman automation API
+[GitHub] https://github.com/testoml/ApiTradeLocal
+
+The project includes installation of Mongo DB and automation of API using Postman
+`Status: Completed`
+
+## 📚 JavaScript and Google Sheet
+[GitHub](https://github.com/testoml/JS_GoogleSheet)
+
+The project shows the way to connect to Google sheet and manipulate information to create a page using information cells 
+`Status: Completed`
+
+## 👩‍💻 Selenium + C# 
+
+
